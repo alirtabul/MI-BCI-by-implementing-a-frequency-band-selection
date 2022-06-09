@@ -1,0 +1,5 @@
+
+The dataset can be downloaded in "https://figshare.com/collections/A_large_electroencephalographic_motor_imagery_dataset_for_electroencephalographic_brain_computer_interfaces/3917698".
+
+To correctly execute the codes, in the same directory of the codes, create a folder named Data and a subfolder named CLA (Data/CLA).
+Otherwise, clone the git repository to directly download the data in the right folder ("https://github.com/alirtabul/MI-BCI-by-implementing-a-frequency-band-selection"). 
